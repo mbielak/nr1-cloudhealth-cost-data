@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "cloudhealth-cost-v2-launcher",
+    "displayName": "Cloudhealth Cost Data Launcher",
+    "description": "Describe me",
+    "rootNerdletId": "cloudhealth-cost-v2-nerdlet"
+}
