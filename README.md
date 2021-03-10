@@ -6,7 +6,7 @@ Run the following scripts:
 
 ```
 npm install
-npm start
+nr1 nerdpack:serve
 ```
 
 Visit https://one.newrelic.com/?nerdpacks=local and :sparkles:
