@@ -1,5 +1,7 @@
 # nr1-cloudhealth-cost-data
 
+Initial PoC for Cloudhealth cost data in New Relic One.
+
 ## Getting started
 
 Run the following scripts:
