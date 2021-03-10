@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "cloudhealth-cost-v2",
+    "version": "1.2.0",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "e2c0afe7-6c05-4fe4-8356-dab9f4ff70ff"
+    },
+    "dependencies": {
+        "prop-types": "^15.6.2",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
