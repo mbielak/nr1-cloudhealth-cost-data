@@ -21,7 +21,7 @@ export default class CloudhealthCostDataNerdlet extends React.Component {
 
     constructor(props) {
         super(props)
-        this.accountId = 762589
+        this.accountId = <AcctId>
         this.state = {
             apmTagsData: null,
             appName: null,
